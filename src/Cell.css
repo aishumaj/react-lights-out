@@ -1,6 +1,7 @@
 .Cell {
   height: 100px;
   width: 100px;
+  border: solid blue 1px;
   background-color: darkgray;
   cursor: pointer;
 }
